@@ -40,6 +40,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn",北京卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn",浙江卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn",东方卫视
@@ -62,8 +64,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",湖南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",广东卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",深圳卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",湖北卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",天津卫视
@@ -140,8 +144,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",风尚河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn",欢腾购物
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",郑州新闻频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",郑州商都频道
@@ -172,3 +174,33 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",求索记录
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/1.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV兵器科技
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227485/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV云风足球
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV第一剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227498/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV风云剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227500/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV怀旧剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV风云音乐
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227504/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV央视台球
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227506/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV高尔夫网球
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV女性时尚
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV世界地理
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227512/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV卫生健康
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV央视文化精品
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CHC家庭影院
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CHC动作电影
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CHC影迷电影
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
