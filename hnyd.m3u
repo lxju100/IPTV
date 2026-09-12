@@ -41,13 +41,13 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn",浙江卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn",东方卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",江苏卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",山东卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",安徽卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",辽宁卫视
@@ -61,7 +61,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",江西卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",湖南卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",深圳卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",湖北卫视
@@ -70,6 +70,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",云南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",四川卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",重庆卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226420/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",吉林卫视
